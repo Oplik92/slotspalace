@@ -1,2 +1,0 @@
-# slotspalace
-slotspalace site
